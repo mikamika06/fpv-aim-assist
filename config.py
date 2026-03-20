@@ -1,0 +1,25 @@
+MODEL_PATH = "models/yolov8s.pt"
+TARGET_CLASS = "person"
+CONF_THRESHOLD = 0.45
+DEAD_ZONE = 10
+WINDOW_NAME = "FPV_ASSIST"
+
+SCREEN_MONITOR = {
+    "top": 500,
+    "left": 500,
+    "width": 960,
+    "height": 540
+}
+MAX_MISSED_FRAMES = 8
+TRACKING_DISTANCE_THRESHOLD = 160
+
+DETECT_EVERY_N_FRAME = 3
+
+KP_YAW = 0.45
+KD_YAW = 0.05
+
+KP_PITCH = 0.45
+KD_PITCH = 0.05
+
+MAX_YAW = 0.45
+MAX_PITCH = 0.45

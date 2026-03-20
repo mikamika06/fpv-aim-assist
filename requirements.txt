@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+mss
+numpy
+pygame
+vgamepad
