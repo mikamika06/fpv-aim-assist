@@ -3,6 +3,12 @@
 Computer vision-based FPV aim assist prototype for screen input.  
 The project detects a target on the screen, tracks it across frames, computes correction commands, mixes them with pilot input, and sends the result to a virtual gamepad.
 
+## Demo 
+
+```text
+https://youtu.be/ZKWv6fKPGlQ
+```
+
 ## Features
 
 - screen capture input
