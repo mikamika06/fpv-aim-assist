@@ -100,3 +100,6 @@ Main parameters are defined in config.py.
 - only yaw and pitch are assisted
 - no real drone integration
 - no safety mechanisms
+
+https://youtu.be/TngTRyPjAdY?si=P02b9g-ebCKSvif7
+
